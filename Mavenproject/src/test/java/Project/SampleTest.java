@@ -7,6 +7,7 @@ public class SampleTest {
 	@Test
 	public void testcase() {
 		Reporter.log("my first test",true);
+		Reporter.log("hi");
 	}
 
 }
